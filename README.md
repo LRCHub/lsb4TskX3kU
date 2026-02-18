@@ -1,0 +1,40 @@
+# Bad Omens – Dying To Love
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:26.64] Drivin' home with nowhere to be
+[00:33.08] Passin' ghosts that tire of sleep
+[00:39.84] Blurry faces starin' at me
+[00:46.24] They're starin' but they don't see a thing
+[01:07.24] 
+[00:52.09] Well, I've been dying to love, dying to love, dying to love
+[00:58.89] One more second's enough, second to love, second to love
+[01:05.55] I've been dying to love, dying to love, dying to love
+[01:12.04] One more second's enough, second to love, second to love
+[01:40.04] 
+[01:32.61] Stepping stones that bloody your feet
+[01:39.33] Sirens holding flowers of teeth
+[01:45.56] They call your name from ivory streets
+[01:52.15] But Heaven isn't quite what it seems
+[02:10.15] 
+[01:58.55] I've been dying to love, dying to love, dying to love
+[02:05.10] One more second's enough, second to love, second to love
+[02:11.86] I've been dying to love, dying to love, dying to love
+[02:18.40] One more second's enough, second to love, second to love
+[02:46.40] 
+[02:35.99] They circle over the stain
+[02:42.76] My essence slipping away
+[02:49.38] (Waiting their turn for a) taste
+[02:59.07] Taste
+[03:01.57] 
+[03:02.42] So, tell me, how does it taste?
+[03:09.22] And was it all worth the wait?
+[03:15.67] So, was it worth what it takes?
+[03:24.56] I've been dying to love, dying to love, dying to love
+[03:51.06] 
+[03:31.24] I've been dying to love, dying to love, dying to love
+[03:37.76] One more second's enough, second to love, second to love
+[03:44.31] I've been dying to love, dying to love, dying to love
+[03:51.06] One more second's enough, second to love, second to love
+```
