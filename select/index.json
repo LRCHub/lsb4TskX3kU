@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Dying To Love",
+  "base_artist": "Bad Omens",
+  "createdAt": "2026-02-18T19:47:11.182008Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dying To Love",
+      "artist": "Krypteria",
+      "has_synced": true,
+      "path": "select/01_Dying_To_Love_Krypteria.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dying To Love",
+      "artist": "Kypteria",
+      "has_synced": true,
+      "path": "select/02_Dying_To_Love_Kypteria.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Lover's Passion, No. 17: Dying to Love",
+      "artist": "Robert A.F. Thurman",
+      "has_synced": false,
+      "path": "select/03_The_Lover's_Passion,_No._17__Dying_to_Love_Robert_A.F._Thurman.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dying To Love",
+      "artist": "Bad Omens",
+      "has_synced": false,
+      "path": "select/04_Dying_To_Love_Bad_Omens.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dying To Love",
+      "artist": "Bad Omens",
+      "has_synced": true,
+      "path": "select/05_Dying_To_Love_Bad_Omens.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dying To Love",
+      "artist": "Bad Omens",
+      "has_synced": true,
+      "path": "select/06_Dying_To_Love_Bad_Omens.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dying To Love (Paused)",
+      "artist": "Bad Omens",
+      "has_synced": true,
+      "path": "select/07_Dying_To_Love_(Paused)_Bad_Omens.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dying To Love",
+      "artist": "Bad Omens",
+      "has_synced": false,
+      "path": "select/pl_01_Dying_To_Love_Bad_Omens.txt"
+    }
+  ]
+}
